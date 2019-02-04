@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Bobby\\School\\2019\\Spring\\4390 - Babb's Class\\Assignments\\Assignment 03\\Tutorial_01\\MvcMovie\\MvcMovie.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
